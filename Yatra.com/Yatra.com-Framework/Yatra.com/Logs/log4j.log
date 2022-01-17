@@ -1,0 +1,8 @@
+2022-01-06 11:54:20 INFO  Log:18 - =====================================LoginTest TEST START=========================================
+2022-01-06 11:54:20 INFO  Log:29 - User is going to click on Signup button
+2022-01-06 11:54:27 INFO  Log:29 - entering username and password
+2022-01-06 11:55:24 INFO  Log:18 - =====================================LoginTest TEST START=========================================
+2022-01-06 11:55:24 INFO  Log:29 - User is going to click on Signup button
+2022-01-06 11:55:30 INFO  Log:29 - entering username and password
+2022-01-06 11:55:33 INFO  Log:29 - Success
+2022-01-06 11:55:33 INFO  Log:22 - =====================================Login test TEST END=========================================
